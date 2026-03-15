@@ -3,7 +3,7 @@ city = "kharkiv"
 association = "🌃"
 print(city)
 print(association)
-print("U+2602")
+print("9730")
 print("\U0001F34D")
 print("""
 Еней був парубок моторний
